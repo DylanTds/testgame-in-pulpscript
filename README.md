@@ -17,4 +17,4 @@ My goal is to make a fontionning game that takes about half an hour to finish.. 
 Playdate - [Pulpscript Web-based game editor](https://play.date/pulp/)  
 [Playdate Console](https://shop.play.date/)(still hoping to get one someday)  
   
-~Ask me beforehand, if you are planning to use my work~  
+Ask me beforehand, if you are planning to use my work  
