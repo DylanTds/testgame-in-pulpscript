@@ -6,7 +6,15 @@
 Basic zelda-like game for me to learn Pulpscript and test what can be done with the Playdate.  
 It still needs alot of logic to complete every room, finish enemy AI and make boss AI.  
 My goal is to make a fontionning game that takes about half an hour to finish.. so I made it a new project in github [The Legend of Zolt](https://github.com/DylanTds/the-legend-of-zolt).  
-  
+
+## How to install  
+Download the ".json" file of my game.  
+Next go to [playdate's official website](https://play.date/pulp) and create an account.  
+Then go to https://play.date/pulp/ and create a new game (button on the top right).  
+Then click on the 'Import' button (on the bottom left) and select the ".json" file.  
+Then click "save" to save the game to your account, and "play" to play it on your browser.  
+You can install the game on your Playdate, if you already have one !  
+
 ## Documentation  
 * Playdate - [Pulpscript Documentation](https://play.date/pulp/docs/pulpscript/)  
 * Playdate - [Dev forum](https://devforum.play.date/)  
