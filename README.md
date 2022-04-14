@@ -12,6 +12,10 @@ My goal is to make a fontionning game that takes about half an hour to finish.. 
 * Playdate - [Dev forum](https://devforum.play.date/)  
 * Playdate - [official website dev portal](https://play.date/dev/)  
 * Github - [A list of awesome resources for game dev.](https://github.com/sayhiben/awesome-playdate)  
+* Youtube - [PulpScript: A Beginner's Guide](https://www.youtube.com/watch?v=r5GnCjsAqeQ)  
+* Youtube - [Make an Adventure Game for the Playdate using Pulp](https://www.youtube.com/watch?v=p4eLcP3hgJc)  
+* Youtube - [Playdate Pulp Tutorial: Making a Simple Enemy AI and Attack System](https://www.youtube.com/watch?v=ERJ0J2vxbzk)  
+* Youtube - [I Made 1-Bit 2D Minecraft for the Playdate](https://www.youtube.com/watch?v=_Z1zlLM1PT4)  
   
 ## Tools used  
 Playdate - [Pulpscript Web-based game editor](https://play.date/pulp/)  
