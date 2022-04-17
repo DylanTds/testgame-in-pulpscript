@@ -5,7 +5,7 @@
 
 Basic zelda-like game for me to learn Pulpscript and test what can be done with the Playdate.  
 It still needs alot of logic to complete every room, finish enemy AI and make boss AI.  
-My goal is to make a fontionning game that takes about half an hour to finish.. so I made it a new project in github [The Legend of Zolt](https://github.com/DylanTds/the-legend-of-zolt).  
+My goal is to make a fontionning game that takes about half an hour to finish.. so I made it a new project : [The Legend of Zolt](https://umsd1.itch.io/the-legend-of-zolt).  
 
 ## How to install  
 Download the ".json" file of my game.  
